@@ -5,10 +5,10 @@ Many players have used social media to voice their opinions on serious social in
 How does the number, favorite count, and retweet count of NBA players' political tweets affect their salary, on-court performance, and impact to the team during 2017-2021?
 
 # Collaborators
-Chao-Li Wei
-Quinton Ramasamy
-Lauren Gomez
-Alexander G. Arias
-David Marquez
+* Chao-Li Wei 
+* Quinton Ramasamy
+* Lauren Gomez
+* Alexander G. Arias
+* David Marquez
 
 Refer to `FinalProject_group007.ipynb` for details
